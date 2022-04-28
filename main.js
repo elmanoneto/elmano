@@ -5,7 +5,7 @@ document.querySelector('#app').innerHTML = `
   <p>
     My name's Elmano, I'm a Software Engineer.
     Currently, I'm working at <a href="http://www.liferay.com" target="_blank">Liferay</a>.
-    I like to work and study things around front-end world.
+    I like to work and study things around the front-end world.
   </p>
 
   <ul>
