@@ -7,7 +7,7 @@ document.querySelector('#app').innerHTML = `
     Currently, I'm working at <a href="http://www.venturus.org.br" target="_blank">Venturus</a>.
     I like to work and study stuffs around the front-end world.
   </p>
-§§
+  
   <ul>
     <li>
       <a href="http://www.facebook.com/elmanoneto" class="social-icon" target="_blank"><i class="fa fa-facebook"></i></a>
