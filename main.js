@@ -4,7 +4,7 @@ document.querySelector('#app').innerHTML = `
   <h1>Hey!</h1>
   <p>
     My name's Elmano, I'm a Software Engineer.
-    Currently, I'm working at <a href="http://www.venturus.org.br" target="_blank">Venturus</a>.
+    Currently, I'm working at <a href="https://www.extractta.com.br/" target="_blank">Extractta</a>.
     I like to work and study stuffs around the front-end world.
   </p>
 
