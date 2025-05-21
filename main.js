@@ -6,6 +6,7 @@ document.querySelector('#app').innerHTML = `
     My name's Elmano, I'm a Software Engineer.
     Currently, I'm working at <a href="https://www.extractta.com.br/" target="_blank">Extractta</a>.
     I like to work and study stuffs around the front-end world.
+    <br />
     Also, I'm pursuing a Master's degree in Artificial Intelligence and Data Science.
   </p>
 
